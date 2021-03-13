@@ -16,7 +16,7 @@ banner = """
   ____) | | |__| |  _| |_  | |      | |____  | | \ \             / /     | |
  |_____/   \____/  |_____| |_|      |______| |_|  \_\           /_/      |_|
  _____________________________________________________________________________
-AUTHOR   :FOKIMSHAR 
+AUTHOR   :THUND3RBOLT
 TIPS     :Use Mobile Data,VPN,Team For Better Experience
 NOTE     :You Can Take The Tool Name Seriously If You Want ;) 
 _______________________________________________________________________________
